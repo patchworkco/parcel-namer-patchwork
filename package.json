@@ -1,0 +1,7 @@
+{
+  "name": "parcel-namer-patchwork",
+  "version": "0.0.1",
+  "description": "A namer for the patchwork bundler",
+  "main": "index.js",
+  "license": "MIT"
+}
